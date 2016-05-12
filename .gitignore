@@ -17,3 +17,5 @@ hs_err_pid*
 /bin/
 /.gradle/
 /.nb-gradle/private/
+/BroPalsAdventureJam2016/build/
+/BroPalsAdventureJam2016/dist/
