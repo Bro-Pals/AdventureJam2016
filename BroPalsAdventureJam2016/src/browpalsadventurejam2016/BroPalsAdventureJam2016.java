@@ -9,7 +9,7 @@ package browpalsadventurejam2016;
  *
  * @author Pants
  */
-public class BrowPalsAdventureJam2016 {
+public class BroPalsAdventureJam2016 {
 
     /**
      * @param args the command line arguments

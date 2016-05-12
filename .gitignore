@@ -10,5 +10,10 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
-/BrowPalsAdventureJam2016/nbproject/private/
 /BroPalsAdventureJam2016/nbproject/private/
+
+
+/build/
+/bin/
+/.gradle/
+/.nb-gradle/private/
